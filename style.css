@@ -4,6 +4,9 @@
     box-sizing: border-box;
 
 }
+body{
+   background-image: url("assets/fundo1.webp");
+}
 h1{
     text-align: center;
     color: brown;
